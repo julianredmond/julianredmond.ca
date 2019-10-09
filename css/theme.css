@@ -1,0 +1,20 @@
+:root {
+  --color-primary: #FF3A17;
+  --color-primary-light: #FF5233;
+  --color-primary-dark: #D11B07;
+  --color-secondary: #00B45B;
+  --color-secondary-light: #00FF93;
+  --color-text: #000000;
+  --color-text-secondary: #FFFFFF;
+
+  --font-primary: 'Khula', sans-serif;
+}
+
+  html {
+    font-family: var(--font-primary);
+    color: var(--color-text);
+  }
+
+  h1 {
+
+  }
