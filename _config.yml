@@ -3,4 +3,19 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
-  font-url: https://fonts.googleapis.com/css?family=Khula:300,400,600,700,800&display=swap
+  title: "Julian Redmond"
+  description: |
+    A personalized portfolio website for graphic designer, Julian Redmond.
+  font_url: "https://fonts.googleapis.com/css?family=Khula:300,400,600,700,800&display=swap"
+  colors:
+    background: "--color-secondary"
+    accent: "--color-accent"
+    patterns:
+      brand.logos: "--color-accent-light"
+  rationales:
+    typefaces.primary: |
+      Khula was selected because it appears kind and modern.
+    colors.primary: |
+      The primary colours are subtle but bold. They should be used mainly for text.
+    colors.secondary: |
+      The secondary colours are calm and neutral. They should be used mainly as background colours.
