@@ -1,0 +1,23 @@
+title: "Buttons"
+description: |
+  Buttons should be used to draw attention to any important clickable areas.
+
+patterns:
+  basic:
+    title: "Basic"
+    description: |
+      An eye-catching colourful button.
+  ghost:
+    title: "Ghost"
+    description: |
+      The ghost button is fun and colourful but more subtle than the basic button.
+    background: "--color-secondary-light"
+  simple:
+    title: "Simple"
+    description: |
+      A very subtle and unintrusive button.
+  simple-color:
+    title: "Simple Colour"
+    description: |
+      A subtle, unintrusive button with a splash of colour.
+    background: "--color-secondary-light"

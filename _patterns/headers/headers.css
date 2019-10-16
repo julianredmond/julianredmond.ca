@@ -1,0 +1,12 @@
+.header {
+  background-color: var(--color-accent-light);
+}
+
+.title {
+  color: var(--color-primary);
+  font-weight: 400;
+}
+
+.title:hover {
+  color: var(--color-primary-light);
+}

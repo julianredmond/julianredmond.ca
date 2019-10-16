@@ -2,6 +2,7 @@
   --color-primary: #000000;
   --color-primary-light: #484848;
   --color-secondary: #FFFFFF;
+  --color-secondary-light: #F2F2F2;
   --color-secondary-dark: #D5D5D5;
   --color-accent: #FF4027;
   --color-accent-light: #FF6652;
@@ -12,5 +13,4 @@
 
   html {
     font-family: var(--font-primary);
-    color: var(--color-text);
   }

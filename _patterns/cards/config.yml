@@ -1,0 +1,23 @@
+title: "Cards"
+description: |
+  Cards can be used as a template for any sections of the website.
+
+patterns:
+  basic:
+    title: "Basic"
+    description: |
+      A simple card that contains a title, description and a call to action.
+  portfolio:
+    title: "Portfolio"
+    description: |
+      A card to display all portfolio pieces. It contains
+    background: "--color-secondary-light"
+  simple:
+    title: "Simple"
+    description: |
+      A very subtle and unintrusive button.
+  simple-color:
+    title: "Simple Colour"
+    description: |
+      A subtle, unintrusive button with a splash of colour.
+    background: "--color-secondary-light"
