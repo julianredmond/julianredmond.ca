@@ -10,14 +10,5 @@ patterns:
   portfolio:
     title: "Portfolio"
     description: |
-      A card to display all portfolio pieces. It contains
-    background: "--color-secondary-light"
-  simple:
-    title: "Simple"
-    description: |
-      A very subtle and unintrusive button.
-  simple-color:
-    title: "Simple Colour"
-    description: |
-      A subtle, unintrusive button with a splash of colour.
-    background: "--color-secondary-light"
+      A card to display all portfolio pieces. It contains descriptions and placeholders for portfolio images.
+    background:
