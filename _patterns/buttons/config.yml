@@ -12,6 +12,13 @@ patterns:
     description: |
       The ghost button is fun and colourful but more subtle than the basic button.
     background: "--color-secondary-light"
+    fields:
+      - name: text
+        type: string
+        example: "Get In Touch"
+      - name: url
+        type: url
+        example: "/contact/"
   simple:
     title: "Simple"
     description: |

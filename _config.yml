@@ -19,3 +19,10 @@ patternbot:
       The primary colours are subtle but bold. They should be used mainly for text.
     colors.secondary: |
       The secondary colours are calm and neutral. They should be used mainly as background colours.
+  layouts:
+    default: |
+      The default layout will be the only one used as the website is a single page.
+
+collections:
+  pieces:
+    output: true

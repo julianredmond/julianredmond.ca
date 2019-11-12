@@ -1,0 +1,9 @@
+title: "Footers"
+description: |
+  The footer will be used to display contact information.
+
+patterns:
+  footer:
+    title: "Footer"
+    description: |
+      A simple footer that shows different ways to contact the designer.

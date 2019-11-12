@@ -1,5 +1,12 @@
-<div class="basic island">
-  <h1>About</h1>
-  <p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>
-  {% pattern buttons/ghost %}
+<div class="island">
+  <div class="basic">
+    <h1 class="island push-0">{{include.heading}}</h1>
+    <div class="grid">
+      <img class="gutter img-flex portrait pad-b unit xs-1 s-1 m-1-2 l-1-2 xl-1-2" src="/images/{{include.image}}" alt="">
+      <p class="gutter unit xs-1 s-1 m-1-2 l-1-2 xl-1-2">{{include.text}}</p>
+    </div>
+    <div class="gutter push">
+      {% pattern buttons/ghost text="Get In Touch" url="/contact/" %}
+    </div>
+  </div>
 </div>

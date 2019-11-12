@@ -7,8 +7,27 @@ patterns:
     title: "Basic"
     description: |
       A simple card that contains a title, description and a call to action.
+    fields:
+      - name: heading
+        type: string
+        example: "About Julian"
+      - name: text
+        type: string
+        example: "I am a designer and I like to design."
+      - name: image
+        type: string
+        example: "portrait.jpg"
   portfolio:
     title: "Portfolio"
     description: |
       A card to display all portfolio pieces. It contains descriptions and placeholders for portfolio images.
-    background:
+    fields:
+      - name: heading
+        type: string
+        example: "Work"
+      - name: text
+        type: string
+        example: "This is a logo redesign project."
+      - name: image
+        type: string
+        example: "logo-mockup.jpg"

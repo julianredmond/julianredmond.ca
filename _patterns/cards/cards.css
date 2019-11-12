@@ -20,6 +20,18 @@
   transition: transform .2s;
 }
 
-.zoom:hover {
+.zoom:focus {
   transform: scale(1.5);
+}
+
+.overlay {
+  background-color: transparent;
+}
+
+.overlay:hover {
+  background-color: var(--color-accent);
+}
+
+.portrait {
+  max-width: 15em;
 }

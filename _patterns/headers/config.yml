@@ -1,0 +1,9 @@
+title: "Headers"
+description: |
+  The header will function as the main navigation for the website.
+
+patterns:
+  header:
+    title: "Header"
+    description: |
+      A header that is simple, easy to read, and easy to navigate.
