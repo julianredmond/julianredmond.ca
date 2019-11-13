@@ -23,6 +23,12 @@ patternbot:
     default: |
       The default layout will be the only one used as the website is a single page.
 
-collections:
-  pieces:
-    output: true
+# collections:
+#   pieces:
+#     output: true
+
+defaults:
+  - scope:
+      path: _pieces
+    values:
+      layout: default

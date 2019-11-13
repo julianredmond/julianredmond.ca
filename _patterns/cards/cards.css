@@ -2,14 +2,14 @@
   border-style: solid;
   border-width: 3px;
   border-radius: 10px;
-  border-color: var(--color-secondary-dark);
+  border-color: var(--color-secondary-light);
 }
 
 .portfolio {
   border-style: solid;
   border-width: 3px;
   border-radius: 10px;
-  border-color: var(--color-secondary-dark);
+  border-color: var(--color-secondary-light);
 }
 
 .red {
@@ -20,18 +20,15 @@
   transition: transform .2s;
 }
 
-.zoom:focus {
+.zoom:hover {
   transform: scale(1.5);
 }
 
-.overlay {
-  background-color: transparent;
-}
-
-.overlay:hover {
-  background-color: var(--color-accent);
-}
-
 .portrait {
+  max-width: 30em;
+}
+
+.app-screens {
   max-width: 15em;
+  align-content: center;
 }

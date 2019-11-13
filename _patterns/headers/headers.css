@@ -1,5 +1,6 @@
 .header {
   background-color: var(--color-accent-light);
+  opacity: 0.95;
 }
 
 .title {
@@ -10,4 +11,13 @@
 
 .title:hover {
   color: var(--color-primary-light);
+}
+
+@media only screen and (min-width: 38em) {
+
+  .header {
+    position: fixed;
+    width: 100%;
+  }
+
 }

@@ -3,5 +3,6 @@ layout: default
 ---
 
 {% pattern banners/basic %}
-{% pattern cards/basic heading="About Julian" text="I am a designer and I like to design." image="portrait.jpg" %}
-{% pattern cards/portfolio heading="Work" text="This is a logo redesign project." image="logo-mockup.jpg" %}
+{% pattern cards/basic data=site.data.about %}
+{% pattern cards/portfolio data=site.data.excel %}
+{% pattern cards/portfolio-2 data=site.data.logo %}

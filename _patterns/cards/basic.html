@@ -1,9 +1,9 @@
-<div class="island">
+<div id="about" class="island">
   <div class="basic">
-    <h1 class="island push-0">{{include.heading}}</h1>
+    <h1 class="island push-0">{{include.data.heading}}</h1>
     <div class="grid">
-      <img class="gutter img-flex portrait pad-b unit xs-1 s-1 m-1-2 l-1-2 xl-1-2" src="/images/{{include.image}}" alt="">
-      <p class="gutter unit xs-1 s-1 m-1-2 l-1-2 xl-1-2">{{include.text}}</p>
+      <img class="gutter img-flex portrait pad-b unit xs-1 s-1 m-1-2 l-1-2 xl-1-2" src="/images/{{include.data.image}}" alt="">
+      <p class="gutter unit xs-1 s-1 m-1-2 l-1-2 xl-1-2">{{include.data.text}}</p>
     </div>
     <div class="gutter push">
       {% pattern buttons/ghost text="Get In Touch" url="/contact/" %}
