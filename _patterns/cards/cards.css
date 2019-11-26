@@ -3,6 +3,7 @@
   border-width: 3px;
   border-radius: 10px;
   border-color: var(--color-secondary-light);
+  background-color: var(--color-secondary);
 }
 
 .portfolio {
@@ -10,25 +11,13 @@
   border-width: 3px;
   border-radius: 10px;
   border-color: var(--color-secondary-light);
+  background-color: var(--color-secondary);
 }
 
 .red {
   color: var(--color-accent);
 }
 
-.zoom {
-  transition: transform .2s;
-}
-
-.zoom:hover {
-  transform: scale(1.5);
-}
-
 .portrait {
-  max-width: 30em;
-}
-
-.app-screens {
-  max-width: 15em;
-  align-content: center;
+  max-width: 50em;
 }

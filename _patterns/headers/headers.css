@@ -13,6 +13,14 @@
   color: var(--color-primary-light);
 }
 
+.dropdown-content {
+  display: none;
+}
+
+.dropdown:hover {
+  display: block;
+}
+
 @media only screen and (min-width: 38em) {
 
   .header {

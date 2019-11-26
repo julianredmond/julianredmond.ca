@@ -33,3 +33,33 @@ patterns:
         data:
           source: "site.pieces[0]"
           type: piece
+  portfolio-3:
+    title: "Portfolio-3"
+    description: |
+      A card to display all portfolio pieces. It contains descriptions and placeholders for portfolio images.
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.pieces[0]"
+          type: piece
+    portfolio-4:
+      title: "Portfolio-4"
+      description: |
+        A card to display all portfolio pieces. It contains descriptions and placeholders for portfolio images.
+      fields:
+        - name: data
+          type: object
+          data:
+            source: "site.pieces[0]"
+            type: piece
+  portfolio-5:
+    title: "Portfolio-5"
+    description: |
+      A card to display all portfolio pieces. It contains descriptions and placeholders for portfolio images.
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.pieces[0]"
+          type: piece
