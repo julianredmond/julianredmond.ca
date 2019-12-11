@@ -18,7 +18,7 @@ patterns:
         example: "Get In Touch"
       - name: url
         type: url
-        example: "/contact/"
+        example: "#contact"
   simple:
     title: "Simple"
     description: |

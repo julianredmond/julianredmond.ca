@@ -1,7 +1,9 @@
 name: "Monster GIF"
 text: |
   This is an animated GIF I created based on a t-shirt that I screen-printed.
-heading: "Design"
+heading-1: "Sketches / Photography"
+heading-2: "Process"
+heading-3: "Final Animation"
 image-1: "gif-storyboard.jpg"
 image-2: "monster-shirt-photo.jpg"
 image-3: "monster-shirt-1.jpg"

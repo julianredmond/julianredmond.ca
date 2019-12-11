@@ -1,6 +1,7 @@
 .header {
   background-color: var(--color-accent-light);
   opacity: 0.95;
+  z-index: 1;
 }
 
 .title {

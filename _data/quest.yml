@@ -1,6 +1,7 @@
 name: "Quest"
 text: |
   This is a typographic piece executed by hand. It was inspired by initial capitals.
-heading: "Design"
+heading-1: "Illustration"
+heading-2: "Wallet"
 image-1: "quest.jpg"
 image-2: "quest-mockup.jpg"

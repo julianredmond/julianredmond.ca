@@ -1,7 +1,11 @@
 name: "Excel"
 text: |
   This is a packaging redesign project.
-heading: "Design"
+heading-1: "Physical Design"
+heading-2: "Final Graphics"
+heading-3: "App Screens"
+heading-4: "Packaging"
+heading-5: "App"
 image-1: "die-lines-1.jpg"
 image-2: "die-lines-2.jpg"
 image-3: "peppermint.jpg"
