@@ -10,4 +10,3 @@
 *.lock text eol=lf
 .editorconfig text eol=lf
 *.pdf filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
