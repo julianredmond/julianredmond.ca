@@ -1,6 +1,6 @@
-name: "Monster GIF"
+name: "Monster"
 text: |
-  This is an animated GIF I created based on a t-shirt that I screen-printed.
+  This is a looping animation I created based on a t-shirt that I designed and screen-printed. The shirt showed a monster with its claws tearing out from inside the shirt. I began with a storyboard to get an idea of how the animation would look and how I would create it. I got some photography done of myself wearing the shirt to use for the animation. I then began drawing the animation in frames over top of the photograph. All of the frames were joined together and the final piece was created.
 heading-1: "Sketches / Photography"
 heading-2: "Process"
 heading-3: "Final Animation"
@@ -8,4 +8,3 @@ image-1: "gif-storyboard.jpg"
 image-2: "monster-shirt-photo.jpg"
 image-3: "monster-shirt-1.jpg"
 image-4: "monster-shirt-2.jpg"
-video: "new-monster.mp4"
