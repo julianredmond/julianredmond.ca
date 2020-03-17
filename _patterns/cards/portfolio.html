@@ -2,7 +2,7 @@
   <div class="portfolio island">
 
     <h1>{{include.data.name}}</h1>
-    <p class="push-2">{{include.data.text}}</p>
+    <p class="push-2 milli">{{include.data.text}}</p>
     <h5 class="push-none red">{{include.data.heading-1}}</h5>
 
     <div class="grid">
@@ -34,8 +34,6 @@
       </div>
     </div>
 
-    <h5 class="pad-t red">{{include.data.heading-3}}</h5>
-
     <div class="grid">
       <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 island unit-content-center">
         <img class="img-flex app-screens gutter-2" src="/images/{{include.data.image-7}}" alt="">
@@ -45,18 +43,19 @@
       </div>
     </div>
 
-    <h5 class="pad-t red">{{include.data.heading-4}}</h5>
+    <h5 class="pad-t red">{{include.data.heading-3}}</h5>
+    <!-- <h5 class="pad-t red">{{include.data.heading-4}}</h5> -->
 
     <div class="grid">
-      <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 island">
-        <img class="img-flex overlay" src="/images/{{include.data.image-9}}" alt="">
+      <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 island-2">
+        <img class="img-flex overlay island" src="/images/{{include.data.image-9}}" alt="">
       </div>
-      <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 island">
-        <img class="img-flex" src="/images/{{include.data.image-10}}" alt="">
+      <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 island-2">
+        <img class="img-flex island" src="/images/{{include.data.image-10}}" alt="">
       </div>
     </div>
 
-    <h5 class="pad-t red">{{include.data.heading-5}}</h5>
+    <!-- <h5 class="pad-t red">{{include.data.heading-5}}</h5> -->
 
     <div class="grid">
       <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 island">
@@ -64,6 +63,20 @@
       </div>
       <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 island">
         <img class="img-flex" src="/images/{{include.data.image-12}}" alt="">
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="pad-t unit xs-1-2 s-1-2 m-1-2 l-1-2 xl-1-2">
+        <div class="pad-t left">
+          {% pattern buttons/ghost text="Previous" url="#contact" %}
+        </div>
+      </div>
+
+      <div class="pad-t unit xs-1-2 s-1-2 m-1-2 l-1-2 xl-1-2">
+        <div class="pad-t right">
+          {% pattern buttons/ghost text="Next" url="#contact" %}
+        </div>
       </div>
     </div>
 
