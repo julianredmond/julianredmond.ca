@@ -1,8 +1,14 @@
 name: "Excel"
-text: |
+text-1: |
   This is a redesign of a previous environmentally friendly packaging design. The client for this project is Excel gum. My original design completely eliminated any plastic from the gum packaging. It was very successful but the graphics were neglected due to time constraints. With this redesign, I introduced exciting new graphics that better represent the environmentally friendly packaging. I created graphics for the 4 main Excel gum flavours: Peppermint, Polar Ice, Spearmint, and Winterfresh. Each flavour has a unique design theme showing a different nature scene.
   <br><br>
   Along with the new graphics, every Excel gum package has a QR code that can be scanned as part of the new Excel World mobile app I designed. When a customer scans their pack of gum, they’re able to see how much plastic they are reducing by purchasing the new Excel. The app has many other intriguing features such as worldwide Excel gum plastic reduction statistics and an Excel Stars system. The Stars system lets customers collect points through every scan of their pack of Excel gum. The points can then be redeemed for Excel merchandise.
+text-2: |
+  Something about dielines.
+text-3: |
+  Something about graphics.
+text-4: |
+  Something about the app.
 heading-1: "Dielines"
 heading-2: "Packaging Graphics"
 heading-3: "App Screens"

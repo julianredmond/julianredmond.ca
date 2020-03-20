@@ -1,19 +1,25 @@
 name: "Vimy Brewing Company"
-text: |
-  This is a logo redesign for Ottawa craft brewery, Vimy Brewing Company. They are a small Ottawa brewery founded by 2 brothers who are former reservists in the Royal Canadian Navy. The company represents Canada and Canadian achievements by brewing small batches of beer using high quality ingredients.
+text-1: |
+  Vimy Brewing Company is a small craft brewery located in Little Italy in Ottawa. They were founded by two brothers who are former reservists in the Royal Canadian Navy. The company represents Canada and Canadian achievements by brewing small batches of beer using high quality ingredients.
   <br><br>
-  I began with a lot of research on Vimy Brewing Company in order to figure out some directions to take with the logo design. I focused on 2 possible directions and did many rounds of sketching until I had 2 solid and unique concepts. The concepts were vectorized to present to the client and one was chosen to be improved and finalized.
-  <br><br>
-  The final logo uses a single colour and black or it can be presented just in black. I completed a logo standards guide for the client in addition to the logo design.
+  The goal of this project was to redesign Vimy’s logo, simplifying it and giving them a more modern appearance in order to attract a wider audience and to help them stand out amongst many other craft beers.
+text-2: |
+  The process began with a lot of research on the company and what they represent as well as the local and national craft beer market.
+text-3: |
+  After many rounds of concept sketching, 2 logo design concepts were settled upon.
+text-4: |
+  The second concept was selected out of the two and logo refinements began. In order to make it more interesting and unique, the stem of the maple leaf was integrated into the typography. The completed logo consists of a black and white version and a colour version, in which a deep yellow was picked. This choice was inspired by the vibrant colours of autumn leaves as they change.
+text-5: |
+  The final deliverable of this project was a logo standards guide for Vimy Brewing Company. It highlights important information such as the preferred identity, clear space requirements, minimum size, colour use, and typography. Also included is an example of how the new logo could be used on Vimy products.
 heading-1: "Concepts"
 heading-2: "Process"
-heading-3: "Final Designs"
-# heading-4: "Label / Brand Guide"
+heading-3: "Final Design"
+heading-4: "Branding"
 image-1: "logo-sketch-1.jpg"
 image-2: "logo-sketch-2.jpg"
 image-3: "logo-1-first-round.jpg"
 image-4: "logo-2-first-round.jpg"
-image-5: "logo-bw-3.jpg"
-image-6: "logo-colour-2.jpg"
+image-5: "logo-bw.jpg"
+image-6: "logo-colour.jpg"
 image-7: "logo-mockup.jpg"
 image-8: "brand-guide-mockup.jpg"
