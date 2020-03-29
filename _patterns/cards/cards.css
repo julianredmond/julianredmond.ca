@@ -25,3 +25,29 @@
 .skyscraper {
   max-width: 11em;
 }
+
+.portfolio-gallery {
+  text-decoration-line: none;
+  color: var(--color-accent);
+  text-align: center;
+}
+
+.portfolio-image {
+  opacity: 50%;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .portfolio-gallery {
+    color: transparent;
+  }
+
+  .portfolio-gallery:hover {
+    color: var(--color-accent);
+  }
+
+  .portfolio-image:hover {
+    opacity: 20%;
+  }
+
+}
