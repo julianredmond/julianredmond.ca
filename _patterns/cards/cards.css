@@ -46,6 +46,10 @@
     color: var(--color-accent);
   }
 
+  .portfolio-image {
+    opacity: 100%;
+  }
+
   .portfolio-image:hover {
     opacity: 20%;
   }
